@@ -12,7 +12,6 @@ import amirkabir from './amirkabir.png';
 import medal from './medal.png';
 
 import css from "./tech/css.png";
-import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 import git from "./tech/git.png";
 import html from "./tech/html.png";
@@ -20,10 +19,18 @@ import javascript from "./tech/javascript.png";
 import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
+import java from "./tech/java.png";
+import keras from "./tech/keras.png";
+import matplotlib from "./tech/matplotlib.png";
+import mysql from "./tech/mysql.png";
+import pandas from "./tech/pandas.png";
+import python from "./tech/python.png";
+import pytorch from "./tech/pytorch.png";
+import scikitLearn from "./tech/scikitLearn.png";
+import tensorflow from "./tech/tensorflow.png";
 import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
+
 
 import homanest from "./company/homanest.png";
 import dataScience from "./company/dataScience.png";
@@ -35,6 +42,15 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  java,
+  keras,
+  pandas,
+  mysql,
+  python,
+  pytorch,
+  matplotlib,
+  tensorflow,
+  scikitLearn,
   dataScience,
   nlp,
   robocup,
@@ -49,7 +65,6 @@ export {
   menu,
   close,
   css,
-  docker,
   figma,
   git,
   html,
@@ -57,14 +72,13 @@ export {
   mongodb,
   nodejs,
   reactjs,
-  redux,
   tailwind,
   typescript,
-  threejs,
   homanest,
   carrent,
   jobit,
   tripguide,
   githubGradient,
-  amirkabir
+  amirkabir,
+
 };

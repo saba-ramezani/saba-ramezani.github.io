@@ -8,18 +8,23 @@ import {
     html,
     css,
     reactjs,
-    redux,
     tailwind,
     nodejs,
     mongodb,
     git,
     figma,
-    docker,
-
+    java,
+    keras,
+    matplotlib,
+    mysql,
+    pandas,
+    python,
+    pytorch,
+    scikitLearn,
+    tensorflow,
     carrent,
     jobit,
     tripguide,
-    threejs,
     homanest,
     dataScience,
     nlp,
@@ -82,11 +87,11 @@ import {
   
   const Technologies = [
     {
-      name: "HTML 5",
+      name: "HTML",
       icon: html,
     },
     {
-      name: "CSS 3",
+      name: "CSS",
       icon: css,
     },
     {
@@ -102,11 +107,7 @@ import {
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
-      name: "Tailwind CSS",
+      name: "Tailwind",
       icon: tailwind,
     },
     {
@@ -118,20 +119,44 @@ import {
       icon: mongodb,
     },
     {
-      name: "Three JS",
-      icon: threejs,
-    },
-    {
-      name: "git",
+      name: "Git",
       icon: git,
     },
     {
-      name: "figma",
+      name: "Java",
+      icon: java,
+    },
+    {
+      name: "Figma",
       icon: figma,
     },
     {
-      name: "docker",
-      icon: docker,
+      name: "MatPlotLib",
+      icon: matplotlib,
+    },
+    {
+      name: "Keras",
+      icon: keras,
+    },
+    {
+      name: "MySQL",
+      icon: mysql,
+    },
+    {
+      name: "Pandas",
+      icon: pandas,
+    },
+    {
+      name: "Python",
+      icon: python,
+    },
+    {
+      name: "PyTorch",
+      icon: pytorch,
+    },
+    {
+      name: "Tensorflow",
+      icon: tensorflow,
     },
   ];
   

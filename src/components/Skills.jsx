@@ -6,9 +6,10 @@ const Skills = () => {
   return (
     <div className='flex flex-row flex-wrap justify-center gap-10'>
       {Technologies.map((Technology) => (
-        <div className='w-28 h-28' key={Technology.name}>
-          <img src={Technology.icon} alt="" />
-          {Technology.name}
+        <div className='w-20 h-20 justify-center items-center flex flex-col mt-5' key={Technology.name}>
+          <img className="w-full h-full mb-2" src={Technology.icon} alt="" />
+          <span>{Technology.name}</span>
+          
         </div>
       ))}
     </div>
