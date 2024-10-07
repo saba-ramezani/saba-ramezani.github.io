@@ -55,7 +55,10 @@ import location from './contact/location.png';
 import telegram from './contact/telegram.png';
 import linkedin from './contact/linkedin.png';
 
+import girl from './girl.webp';
+
 export {
+  girl,
   githubwhite,
   email,
   phone,
