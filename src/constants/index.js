@@ -136,55 +136,49 @@ import {
   
   const experiences = [
     {
-      title: "Graph Neural Network Researcher",
-      company_name: "",
-      icon: starbucks,
-      iconBg: "#383E56",
-      date: "March 2020 - April 2021",
-      points: [
-        "Developing and maintaining web applications using React.js and other related Technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
-      points: [
-        "Developing and maintaining web applications using React.js and other related Technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related Technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
+      title: "React Native and Web Developer",
+      company_name: "HomaNest(Part-Time, Remote)",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "Jan. 2023 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related Technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Implementing a Progressive Web Application and an Android Application",
+        "for controlling smart home appliance such as smart Toaster, Oven, Stove and Hood",
+        "In Html, CSS and Javascript"
+      ],
+    },
+    {
+      title: "Undergraduate Research Assistant",
+      company_name: "Amirkabir University of Technology",
+      icon: starbucks,
+      iconBg: "#383E56",
+      date: "Jun. 2023 - Aug. 2024",
+      points: [
+        "Under the Supervision of Prof. Mostafa Haghir Chehreghani",
+        "Analyzing various classification methods on Tree-Structured data",
+        "Optimizing current Graph Neural Networks for sparse tree data",
+      ],
+    },
+    {
+      title: "Natural Language Processing Intern",
+      company_name: "MabnaIC",
+      icon: tesla,
+      iconBg: "#E6DEDD",
+      date: "Jul. 2022 - Oct. 2022",
+      points: [
+        "Under the Supervision of Prof. Saeedeh Momtazi",
+        "Developed a Task-Oriented Chatbot in python using Neural Networks"      ],
+    },
+    {
+      title: "Member of team CYRUS",
+      company_name: "Soccer2D Simulation League",
+      icon: shopify,
+      iconBg: "#383E56",
+      date: "Sep. 2021 - Aug. 2022",
+      points: [
+        "Winner of RoboCup 2021",
+        "Runner-Up of IranOpen 2022",
+        "Mostly focused on Artificial Intelligence"
       ],
     },
   ];
