@@ -45,11 +45,11 @@ const Navbar = () => {
           <img src={logo} alt='logo' className='w-[100px] h-[100px] object-fill rounded-full' />
           <p className='text-white text-[25px] font-bold cursor-pointer flex '>
             Saba &nbsp;
-            <span className='sm:block hidden'></span>
+            <span className='xl:block hidden'></span>
           </p>
         </Link>
 
-        <ul className='list-none hidden sm:flex flex-row gap-10'>
+        <ul className='list-none hidden xl:flex flex-row gap-10'>
           {navLinks.map((nav) => (
             <li
               key={nav.id}
@@ -63,7 +63,7 @@ const Navbar = () => {
           ))}
         </ul>
 
-        <div className='sm:hidden flex flex-1 justify-end items-center'>
+        <div className='xl:hidden flex flex-1 justify-end items-center'>
           <img
             src={toggle ? close : menu}
             alt='menu'

@@ -47,7 +47,22 @@ import hilink from './projects/hilink.png';
 import gpt3 from './projects/gpt3.png';
 import aiChatApp from './projects/aiChatApp.png';
 
+import githubwhite from './contact/githubwhite.png';
+import email from './contact/email.png';
+import phone from './contact/phone.png';
+import social from './contact/social.png';
+import location from './contact/location.png';
+import telegram from './contact/telegram.png';
+import linkedin from './contact/linkedin.png';
+
 export {
+  githubwhite,
+  email,
+  phone,
+  social,
+  location,
+  telegram,
+  linkedin,
   hoobank,
   hilink,
   gpt3,
