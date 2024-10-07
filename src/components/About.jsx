@@ -49,7 +49,7 @@ const About = () => {
       >
         I'm a 23-year-old Computer Engineering graduate with a strong background in developing <span className="text-white text-[16px] bg-[rgba(82,51,255,0.7)] px-2 rounded-lg" >React Native</span> applications and web applications using <span className="text-white text-[16px] bg-[rgba(82,51,255,0.7)] px-2 rounded-lg">React</span>. 
         I'm passionate about <span className="text-white text-[16px] bg-[rgba(82,51,255,0.7)] px-2 rounded-lg"> Artificial Intelligence</span>  and <span className="text-white text-[16px] bg-[rgba(82,51,255,0.7)] px-2 rounded-lg">Machine Learning</span> , particularly in <span className="text-white text-[16px] bg-[rgba(82,51,255,0.7)] px-2 rounded-lg">Natural Language Processing</span>, <span className="text-white text-[16px] bg-[rgba(82,51,255,0.7)] px-2 rounded-lg">Graph Analysis</span> , and <span className="text-white text-[16px] bg-[rgba(82,51,255,0.7)] px-2 rounded-lg">Data Mining</span> .
-         As a dedicated self-learner and a collaborative team player, I'm eager to continue expanding my knowledge and skills in these fields.
+         As a dedicated self-learner and a collaborative team player, I'm eager to continue expanding my knowledge and Tech in these fields.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>

@@ -31,8 +31,24 @@ import {
       title: "About",
     },
     {
-      id: "work",
-      title: "Work",
+      id: "education",
+      title: "Education",
+    },
+    {
+      id: "experience",
+      title: "Experience",
+    },
+    {
+      id: "skills",
+      title: "Skills",
+    },
+    {
+      id: "projects",
+      title: "Projects",
+    },
+    {
+      id: "resume",
+      title: "Resume",
     },
     {
       id: "contact",
@@ -63,7 +79,7 @@ import {
     },
   ];
   
-  const technologies = [
+  const Technologies = [
     {
       name: "HTML 5",
       icon: html,
@@ -126,7 +142,7 @@ import {
       iconBg: "#383E56",
       date: "March 2020 - April 2021",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Developing and maintaining web applications using React.js and other related Technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
@@ -139,7 +155,7 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Developing and maintaining web applications using React.js and other related Technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
@@ -152,7 +168,7 @@ import {
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Developing and maintaining web applications using React.js and other related Technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
@@ -165,7 +181,7 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Developing and maintaining web applications using React.js and other related Technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
@@ -266,4 +282,4 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, Technologies, experiences, testimonials, projects };
