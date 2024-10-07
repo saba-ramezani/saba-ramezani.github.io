@@ -41,7 +41,18 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import hoobank from './projects/hoobank.png';
+import gericht from './projects/gericht.png';
+import hilink from './projects/hilink.png';
+import gpt3 from './projects/gpt3.png';
+import aiChatApp from './projects/aiChatApp.png';
+
 export {
+  hoobank,
+  hilink,
+  gpt3,
+  gericht,
+  aiChatApp,
   java,
   keras,
   pandas,

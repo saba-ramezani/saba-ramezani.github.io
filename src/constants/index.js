@@ -29,6 +29,11 @@ import {
     dataScience,
     nlp,
     robocup,
+    hoobank,
+    hilink,
+    gpt3,
+    gericht,
+    aiChatApp,
   } from "../assets";
   
   export const navLinks = [
@@ -238,16 +243,16 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "AI Chat App",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "A fully responsive website for, introducing an AI Chat Application: BRAINWAVE",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "vite",
           color: "green-text-gradient",
         },
         {
@@ -255,41 +260,58 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: aiChatApp,
+      source_code_link: "https://github.com/saba-ramezani/AI-Chat-App",
     },
     {
-      name: "Job IT",
+      name: "Bank App",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "A fully responsive Banking Application: HOOBANK",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "vite",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "tailwind",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: hoobank,
+      source_code_link: "https://github.com/saba-ramezani/Bank-App",
     },
     {
-      name: "Trip Guide",
+      name: "Restaurant Landing page",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A fully responsive Landing Page for a fancy restaurant: GERICHT",
       tags: [
         {
-          name: "nextjs",
+          name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: gericht,
+      source_code_link: "https://github.com/saba-ramezani/Restaurant-Landing_Page",
+    },
+    {
+      name: "Travel App",
+      description:
+      "A fully responsive web application for traveling & camping: HILINK",
+      tags: [
+        {
+          name: "next js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "typescript",
           color: "green-text-gradient",
         },
         {
@@ -297,8 +319,25 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: hilink,
+      source_code_link: "https://github.com/saba-ramezani/Travel-App",
+    },
+    {
+      name: "GPT3",
+      description:
+      "A fully responsive web application for introducing an AI: GPT3",
+      tags: [
+        {
+          name: "react",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: gpt3,
+      source_code_link: "https://github.com/saba-ramezani/GPT3",
     },
   ];
   
