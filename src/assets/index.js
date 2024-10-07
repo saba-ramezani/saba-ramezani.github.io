@@ -25,16 +25,19 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
+import homanest from "./company/homanest.png";
+import dataScience from "./company/dataScience.png";
+import nlp from "./company/nlp.png";
+import robocup from "./company/robocup.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  dataScience,
+  nlp,
+  robocup,
   medal,
   saba,
   logo,
@@ -58,10 +61,7 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
+  homanest,
   carrent,
   jobit,
   tripguide,

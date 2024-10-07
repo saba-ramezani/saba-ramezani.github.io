@@ -15,14 +15,15 @@ import {
     git,
     figma,
     docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
+
     carrent,
     jobit,
     tripguide,
     threejs,
+    homanest,
+    dataScience,
+    nlp,
+    robocup,
   } from "../assets";
   
   export const navLinks = [
@@ -138,7 +139,7 @@ import {
     {
       title: "React Native and Web Developer",
       company_name: "HomaNest(Part-Time, Remote)",
-      icon: meta,
+      icon: homanest,
       iconBg: "#E6DEDD",
       date: "Jan. 2023 - Present",
       points: [
@@ -150,8 +151,8 @@ import {
     {
       title: "Undergraduate Research Assistant",
       company_name: "Amirkabir University of Technology",
-      icon: starbucks,
-      iconBg: "#383E56",
+      icon: dataScience,
+      iconBg: "#E6DEDD",
       date: "Jun. 2023 - Aug. 2024",
       points: [
         "Under the Supervision of Prof. Mostafa Haghir Chehreghani",
@@ -162,7 +163,7 @@ import {
     {
       title: "Natural Language Processing Intern",
       company_name: "MabnaIC",
-      icon: tesla,
+      icon: nlp,
       iconBg: "#E6DEDD",
       date: "Jul. 2022 - Oct. 2022",
       points: [
@@ -172,8 +173,8 @@ import {
     {
       title: "Member of team CYRUS",
       company_name: "Soccer2D Simulation League",
-      icon: shopify,
-      iconBg: "#383E56",
+      icon: robocup,
+      iconBg: "#E6DEDD",
       date: "Sep. 2021 - Aug. 2022",
       points: [
         "Winner of RoboCup 2021",
