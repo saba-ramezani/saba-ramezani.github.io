@@ -7,6 +7,9 @@ import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import saba from "./saba.jpg";
+import githubGradient from "./github-gradient.png";
+import amirkabir from './amirkabir.png';
+import medal from './medal.png';
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -32,6 +35,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
 export {
+  medal,
   saba,
   logo,
   backend,
@@ -61,4 +65,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  githubGradient,
+  amirkabir
 };
