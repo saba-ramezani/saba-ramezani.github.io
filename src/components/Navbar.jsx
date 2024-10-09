@@ -99,9 +99,8 @@ const Navbar = () => {
                 >
                   {nav.id === "resume" ? (
                     <a
-                      href="https://drive.google.com/file/d/16AsJPKdDmOs96vEIN7Ob0jcKzqsw8H8e/view"
-                      target="_blank"
-                      rel="noopener noreferrer"
+                      href="https://drive.google.com/uc?export=download&id=16AsJPKdDmOs96vEIN7Ob0jcKzqsw8H8e"
+                      download
                     >
                       {nav.title}
                     </a> 
