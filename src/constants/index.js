@@ -9,7 +9,7 @@ import {
     css,
     reactjs,
     tailwind,
-    nodejs,
+    nextjs,
     mongodb,
     git,
     figma,
@@ -69,6 +69,14 @@ import {
   
   const services = [
     {
+      title: "React",
+      icon: web,
+    },
+    {
+      title: "React Native",
+      icon: mobile,
+    },
+    {
       title: "Data Science",
       icon: backend,
     },
@@ -79,15 +87,8 @@ import {
     {
       title: "Vision",
       icon: web,
-    },
-    {
-      title: "Web Developer",
-      icon: web,
-    },
-    {
-      title: "React Native Developer",
-      icon: mobile,
-    },
+    }
+
   ];
   
   const Technologies = [
@@ -116,8 +117,8 @@ import {
       icon: tailwind,
     },
     {
-      name: "Node JS",
-      icon: nodejs,
+      name: "Next JS",
+      icon: nextjs,
     },
     {
       name: "MongoDB",
@@ -171,7 +172,7 @@ import {
       company_name: "HomaNest(Part-Time, Remote)",
       icon: homanest,
       iconBg: "#E6DEDD",
-      date: "Jan. 2023 - Present",
+      date: "Nov. 2022 - Present",
       points: [
         "Implementing a Progressive Web Application and an Android Application",
         "for controlling smart home appliance such as smart Toaster, Oven, Stove and Hood",
